@@ -1,0 +1,28 @@
+name: WOODBROOKRECORDS
+favicon: null
+layout_spectrum: 0.8013401399366558
+typography_spectrum: 0.9672208637930453
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.03096869681030512
+  lightness: 0.0032954050693660975
+  saturation: 0.9557798146270216
+  rhythmicContrast: 0.6905585273634642
+purpose: []
